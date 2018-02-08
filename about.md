@@ -4,9 +4,8 @@ title: "About"
 author: "ycryptx"
 permalink: /about/
 ---
-A blog about **reality**.
+For Cynthia, for now.
 
-## Contact me
-[Here](mailto:jm5884@nyu.edu).
+Contact me [Here](mailto:jm5884@nyu.edu).
 
 Thanks for reading!
