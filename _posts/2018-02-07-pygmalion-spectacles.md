@@ -1,4 +1,4 @@
-###By Stanley Grauman Weinbaum
+### By Stanley Grauman Weinbaum
 
 Last winter I was fortunate  to sit at Slajov Zizek's yearly
 seminar at NYU. The small number of students for which this
