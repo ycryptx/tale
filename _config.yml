@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Ycryptx
+description:    "Words on Reality"
 url:            "https://ycryptx.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         ycryptx
+  url:          https://ycryptx.github.io
+  email:        
 
 # Build settings
 markdown:       kramdown
