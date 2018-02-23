@@ -33,3 +33,5 @@ Undone:
 1) finalize finite room --> could be animated, but maybe could use VR camera (by end of February)
 2) start implementing (by mid March)
 3) figure out if billboarding is needed for infinite room (by end of Feb)
+4) Snowcrash
+5) 24 frames
