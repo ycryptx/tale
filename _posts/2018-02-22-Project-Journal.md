@@ -1,4 +1,4 @@
-### Description
+## Description
 Judging by how reality-simulating technologies have been culturally imagined -- from the Stanley Weinbaum's glass spectacles to Star Trek's all-engulfing holodeck -- out of the many use-cases for virtual reality, the creation of virtual worlds seems to be prominent. 
 
 Virtual spaces can be liberated from the spatial, economic, and legal constrictions of the physical world. They could help us imagine, experiment, and experience alternative realities, and could open the door to things we can't yet think of.
@@ -24,16 +24,15 @@ There would be two spaces, the finite and the infinite. The finite space would b
 the idea is that there would be an object in the distance the user could walk to, and this could go on indefinitely with randomally inputted objects. The idea is that maybe at first the room would look cool, but very soon it would become boring and tedious, and hopefully alienating too.
 
 ## concept 
-_the construct_
+##### the construct
 ![image](/../assets/matrix-construct1.png)
 ![image](/../assets/matrix-construct2.png)
 ![image](/../assets/matrix-construct3.png)
 
-_the chateau room_
+##### the chateau room
 ![image](/../assets/favella.jpg)
 ![image](/../assets/f54cb6347ca78923c6318d4f7d83073d--toy-art-spray.jpg)
 ![image](/../assets/de9a962ba5db490dddfd39bd024e22b3--favelas-watercolor-illustration.jpg)
-![image](/../assets/apple-touch-icon.png)
 ![image](/../assets/Favelinha.jpg)
 ![image](/../assets/FAVELA1.jpg)
 ![image](/../assets/Cartoon city 590 wide.jpg)
@@ -44,12 +43,12 @@ _the chateau room_
 
 ## Timeline:
 
-_Done_:
+##### Done:
 1)talked to Pasan
 
 2) Briefly looked at how to do some of my ideas in C#
 
-_Undone_:
+##### Undone:
 1) finalize finite room --> could be animated, but maybe could use VR camera (by end of February)
 2) start implementing (by mid March)
 3) figure out if billboarding is needed for infinite room (by end of Feb)
