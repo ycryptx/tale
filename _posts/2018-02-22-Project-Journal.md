@@ -20,8 +20,12 @@ So how would it be to introduce finitude to the virtual world? Is it even possib
 I've met with Pasan and got a general idea of what's possible. Everything I will describe is within the limits of VR and of Unity, and of time (most importantly!). 
 
 There would be two spaces, the finite and the infinite. The finite space would be the Chateau room, which would be a caricaturize a place that exists in scarcity (I have yet to finalize exactly what it will be, but it could be a very organized room in which space is maximized to the full efficiency with objects that would be interesting for the walker wearing the headset, or it could be a model city in a tight environment, think Hong Kong, but that would be very difficult to do). The second space would be the infinite room. It would look like Construct in the matrix 
-[link] (http://matrix.wikia.com/wiki/Construct?file=Matrix_Wiki_Construct.png).
+[link](http://matrix.wikia.com/wiki/Construct?file=Matrix_Wiki_Construct.png).
 the idea is that there would be an object in the distance the user could walk to, and this could go on indefinitely with randomally inputted objects. The idea is that maybe at first the room would look cool, but very soon it would become boring and tedious, and hopefully alienating too.
+
+## concept 
+
+![image](/../assets/matrix-construct1.png)
 
 Timeline:
 
