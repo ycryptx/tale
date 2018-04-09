@@ -6,6 +6,6 @@ permalink: /about/
 ---
 Words on reality.
 
-Contact me [Here](mailto:jm5884@nyu.edu).
+Email: \[initials]5884@\[school].edu
 
 For Cynthia, for now.
