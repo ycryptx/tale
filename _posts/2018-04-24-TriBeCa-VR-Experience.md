@@ -1,1 +1,3 @@
+Going to the TriBeCa VR Arcade was interesting as it was a pretty telling as tothe momentum VR is having. There are many well-resourced and heavily invested projects that give highly curated, and truly enjoyable  virtual reality experiences. I particularly liked the real-life experiences such as Hard World for Small Things, and My Mother's Wing, which worked as a convincing transposition into a scene, and used VR as a great story-telling tool.
 
+The thought that most occupied me at the Virtual Arcade is the reproduciability of the exhibited works. They work well as what they were - exhibited pieces - considering the amount of work and investment that went into them, and the fact that they utilize a 
