@@ -1,1 +1,9 @@
-I've been programming for a number of years, 
+I've been programming for a number of years, and most of what I've done feels quite dry compared to what I created for the virtual museum. Programming for VR was very enjoyable, and reminded me how much fun coding can be. It was very nice to see that I can do much more with my skill-set that reaches much more into the realm of art and creativity. And as the tools for VR content creation get better, I believe that the creation experience would get even better.
+
+I wonder if I will continue making VR stuff. Right now I'm so busy with professional and academic work that it seems that I can't, but there's nothing to say that later on my little toe-dipping into the world of VR won't come in handy.
+
+Much of the fun in this project was doing technical research into how I could achieve my project goal. I ended up surfing forums of gamers who make their own video games, and learned a lot about the process of video game making, which is super congruent to VR content making. I conversed with a few people I found on the web that really helped me, one of which was a Russian kid who made a cool grid object and posted it on YouTube. He was extremely nice, and agreed to help me, which showed how cool the software collaboration mentality is, even today. 
+
+It was also very nice to bring my friend along, who is an electronic music producer. He made 2 great tracks that worked great with my piece, and it also felt good to give him a stage and credit. What was also interesting to see is how well some of the other projects turned out, especially given that most of the students behind them had no real technical experience. The use of the drawing tools and the Photoshop-esque interface of Unity opens the doow to almost anyone to create something great. I struggled a lot, perhaps exactly because I have programming experience - I took the difficult route of trying to do everything in functional code objects and scripts.
+
+Overall, it was a great experience, and I'm glad I took part in it!
