@@ -1,5 +1,7 @@
 ### By Stanley Grauman Weinbaum
 
+**Pygmalion Spectacles is a short written by Weinbaum in 1935 a short-famed writer who died of lung cancer at age 35.
+
 Last winter I was fortunate  to sit at Slajov Zizek's yearly
 seminar at NYU. The small number of students for which this
 seminar was for, I gathered, were graduate and doctoral
